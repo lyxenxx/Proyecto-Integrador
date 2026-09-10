@@ -1,3 +1,3 @@
 # Informe
 
-En esta carpeta se almacenará el informe final del Proyecto Integrador, incluyendo la documentación de las actividades realizadas, configuraciones, pruebas, resultados y conclusiones.
+En esta carpeta se encuentra el informe final del Proyecto Integrador. Aquí se documentan las actividades realizadas durante la práctica, las configuraciones aplicadas en los servidores, las pruebas de conectividad y seguridad, los resultados obtenidos y las conclusiones del trabajo. El informe se acompaña con las capturas de pantalla correspondientes para dejar evidencia de cada procedimiento realizado.
